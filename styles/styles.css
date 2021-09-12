@@ -1,0 +1,51 @@
+.header{
+    background-color: #F6F8F9;
+    position: fixed;
+    top:0;
+    raight:0;
+    width: 100%;
+    padding-top: 18px;
+    padding-bottom: 17px;
+	padding-left:20px ;
+}
+.headerlogo{
+	color: #FA6980;
+	font-size: 13;
+	display: inline-block;
+	vertical-align: middle;
+	font-family: 'Roboto', sans-serif;
+	font-weight: bold;
+	letter-spacing: 1px;
+	margin-right: 92px;
+
+}
+.navigation{
+	display: inline-block;
+	vertical-align: middle;
+}
+.li1{
+	display: inline-block;
+}
+.li2{
+	display: inline-block;
+	margin-right: 22px;
+	margin-left: 27px;
+}
+.li3{
+	display: inline-block;
+}
+.li4{
+	display: inline-block;
+	margin-right: 40px;
+	margin-left: 22px;
+}
+.item{
+	color:#343638;
+	font-size: 11;
+	font-family: 'Roboto', sans-serif;
+}
+
+.headerimage{
+	display: inline-block;
+	vertical-align: middle;
+}
