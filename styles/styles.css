@@ -2,7 +2,7 @@
     background-color: #F6F8F9;
     position: fixed;
     top:0;
-    raight:0;
+    left:0;
     width: 100%;
     padding-top: 18px;
     padding-bottom: 17px;
@@ -16,7 +16,7 @@
 	font-family: 'Roboto', sans-serif;
 	font-weight: bold;
 	letter-spacing: 1px;
-	margin-right: 92px;
+	margin-right: 50px;
 
 }
 .navigation{
@@ -46,6 +46,109 @@
 }
 
 .headerimage{
+	display: inline-block;
+	vertical-align: middle;
+}
+.body{
+	background-color: #F6F8F9;
+}
+.section1{
+	margin-top: 90px;
+}
+.container1{
+	margin: 0 auto;
+	width: 1160px;
+	height: 422px;
+}
+.heading1{
+	color: #202124;
+	font-size:24;
+	font-weight: bold;
+	font-family: 'Roboto', sans-serif;
+}
+.div1{
+	display: inline-block;
+	vertical-align: middle;
+	width: 360px;
+	height: 350px;
+	margin-top: 40px;
+	background-color: #FFFFFF;	
+}
+.imagewrapper{
+	position: relative;
+	display: inline-block;
+}
+.image1{
+	width: 360px;
+	heigth: 180px;
+}
+.texton{
+	position: absolute;
+	font-size: 16px;
+	color: #FFFFFF;
+	font-family: 'Roboto', sans-serif;
+	top: 28px;
+	text-align: center;
+	width: 280px;
+	font-weight: bold;
+}
+.textimage{
+	color: #A6ADB4;
+	font-size: 13px;
+	font-family: 'Roboto', sans-serif;
+	width: 280px;
+	margin: 66px 40px 10px;
+}
+.timeimage{
+	display: inline-block;
+	vertical-align: middle;
+	margin-top:10 px;
+	margin-left: 40px;
+}
+.timetext1{
+	color: #A6ADB4;
+	font-size: 13px;
+	font-family: 'Roboto', sans-serif;
+	display: inline-block;
+	vertical-align: middle;
+}
+.div2{
+	display: inline-block;
+	vertical-align: middle;
+	width: 360px;
+	height: 350px;
+	margin-top: 40px;
+	margin-right: 40px;
+	margin-left: 40px;
+	background-color: #FFFFFF;
+}
+.image2{
+	width: 360px;
+	heigth: 180px;
+}
+.timetext2{
+	color: #A6ADB4;
+	font-size: 13px;
+	font-family: 'Roboto', sans-serif;
+	display: inline-block;
+	vertical-align: middle;
+}
+.div3{
+	display: inline-block;
+	vertical-align: middle;
+	width: 360px;
+	height: 350px;
+	margin-top: 40px;
+	background-color: #FFFFFF;
+}
+.image3{
+	width: 360px;
+	heigth: 180px;
+}
+.timetext3{
+	color: #A6ADB4;
+	font-size: 13px;
+	font-family: 'Roboto', sans-serif;
 	display: inline-block;
 	vertical-align: middle;
 }
